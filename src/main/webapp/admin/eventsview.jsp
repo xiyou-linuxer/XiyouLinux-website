@@ -50,7 +50,7 @@
                 <li class="active"><a href="/">主页</a></li>
                 <li><a href="/events">活动</a></li>
                 <li><a href="http://blog.xiyoulinux.com">群博</a></li>
-                <li><a href="http://cs.xiyoulinux.org/">CS</a></li>
+                <li><a href="http://cs.xiyoulinux.com/">CS</a></li>
                 <li><a href="/login">登陆</a></li>
                 <li><a href="/about">关于</a></li>
             </ul>
